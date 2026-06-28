@@ -1,0 +1,39 @@
+text_id: KR1a0121
+total_unique: 35
+total_occurrences: 134
+entries:
+- {kr: KR0004, char: 􅀄, codepoint: U+105004, count: 14}
+- {kr: KR0029, char: 􅀝, codepoint: U+10501D, count: 2}
+- {kr: KR0068, char: 􅁄, codepoint: U+105044, count: 4}
+- {kr: KR0071, char: 􅁇, codepoint: U+105047, count: 1}
+- {kr: KR0123, char: 􅁻, codepoint: U+10507B, count: 28}
+- {kr: KR0143, char: 􅂏, codepoint: U+10508F, count: 14}
+- {kr: KR0156, char: 􅂜, codepoint: U+10509C, count: 1}
+- {kr: KR0165, char: 􅂥, codepoint: U+1050A5, count: 1}
+- {kr: KR0192, char: 􅃀, codepoint: U+1050C0, count: 16}
+- {kr: KR0194, char: 􅃂, codepoint: U+1050C2, count: 6}
+- {kr: KR0209, char: 􅃑, codepoint: U+1050D1, count: 4}
+- {kr: KR0251, char: 􅃻, codepoint: U+1050FB, count: 1}
+- {kr: KR0257, char: 􅄁, codepoint: U+105101, count: 1}
+- {kr: KR0264, char: 􅄈, codepoint: U+105108, count: 1}
+- {kr: KR0268, char: 􅄌, codepoint: U+10510C, count: 2}
+- {kr: KR0289, char: 􅄡, codepoint: U+105121, count: 3}
+- {kr: KR0294, char: 􅄦, codepoint: U+105126, count: 4}
+- {kr: KR0357, char: 􅅥, codepoint: U+105165, count: 2}
+- {kr: KR0363, char: 􅅫, codepoint: U+10516B, count: 1}
+- {kr: KR0390, char: 􅆆, codepoint: U+105186, count: 1}
+- {kr: KR0424, char: 􅆨, codepoint: U+1051A8, count: 1}
+- {kr: KR0465, char: 􅇑, codepoint: U+1051D1, count: 1}
+- {kr: KR0467, char: 􅇓, codepoint: U+1051D3, count: 2}
+- {kr: KR0500, char: 􅇴, codepoint: U+1051F4, count: 1}
+- {kr: KR0530, char: 􅈒, codepoint: U+105212, count: 2}
+- {kr: KR0592, char: 􅉐, codepoint: U+105250, count: 3}
+- {kr: KR0641, char: 􅊁, codepoint: U+105281, count: 1}
+- {kr: KR0694, char: 􅊶, codepoint: U+1052B6, count: 2}
+- {kr: KR0762, char: 􅋺, codepoint: U+1052FA, count: 1}
+- {kr: KR0771, char: 􅌃, codepoint: U+105303, count: 4}
+- {kr: KR0879, char: 􅍯, codepoint: U+10536F, count: 2}
+- {kr: KR0988, char: 􅏜, codepoint: U+1053DC, count: 2}
+- {kr: KR1092, char: 􅑄, codepoint: U+105444, count: 2}
+- {kr: KR1107, char: 􅑓, codepoint: U+105453, count: 1}
+- {kr: KR3571, char: 􅷳, codepoint: U+105DF3, count: 2}
