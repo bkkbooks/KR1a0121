@@ -1091,6 +1091,7 @@ markers:
   - {type: line-break, offset: 3268, content: '', id: KR1a0121_WYG_012-12a07}
   - {type: indent, offset: 3268, content: 　, id: KR1a0121_krp_012-bkkind155}
   - {type: punctuation, offset: 3268, content: (, id: KR1a0121_krp_012-bkkpn1}
+  - {type: voice, offset: 3268, length: 36, name: note, id: n1}
   - {type: substitution, offset: 3273, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: punctuation, offset: 3286, content: /, id: KR1a0121_krp_012-bkkpn2}
   - {type: substitution, offset: 3289, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
@@ -1572,6 +1573,7 @@ markers:
   - {type: line-break, offset: 4626, content: '', id: KR1a0121_WYG_012-17a07}
   - {type: indent, offset: 4626, content: 　, id: KR1a0121_krp_012-bkkind219}
   - {type: punctuation, offset: 4626, content: (, id: KR1a0121_krp_012-bkkpn4}
+  - {type: voice, offset: 4626, length: 153, name: note, id: n2}
   - {type: substitution, offset: 4635, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: punctuation, offset: 4646, content: /, id: KR1a0121_krp_012-bkkpn5}
   - {type: substitution, offset: 4653, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
@@ -5208,4 +5210,4 @@ markers:
 
       ', id: KR1a0121_krp_012-bkkkrnewl971}
   back: []
-hash: sha256:c2079bd0da6ff48c56dc47bafa2d0c469b5abb78ec77e64b8b8501ad3063f3b1
+hash: sha256:f5d638671a5e3748202e422e3e580b62263eaa6267f128beaba2644481b12166
